@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python / Jupyter / env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data / outputs
+data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.pkl
+*.zip
+
+# Secrets
+.env
